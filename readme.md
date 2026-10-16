@@ -1,5 +1,6 @@
 
-<img width="1164" height="237" alt="image" src="https://github.com/user-attachments/assets/05c37407-e672-431c-8499-ce7ced2d0f25" />
+<img width="1110" height="222" alt="image" src="https://github.com/user-attachments/assets/9ab3455f-7e42-467c-83ab-c03730c040e9" />
+
 
 # 👋 Hi, I'm Mohan Krishna Geddada  
 **DevSecOps Engineer | Cloud & Infrastructure Automation**
