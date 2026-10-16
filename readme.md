@@ -9,4 +9,4 @@
 I'm passionate about building reliable automation pipelines and cloud-native solutions.  
 Currently preparing for **Terraform Associate (004)** and **CKA/CKAD certifications**.
 
-📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/mohangeddada/) | [Medium](https://medium.com/@mokridevops)
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/mohangeddada/) | [Hashnode](https://mokri.hashnode.dev/)
