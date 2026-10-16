@@ -7,7 +7,7 @@
 🔐 DevSecOps | Terraform | AWS | CI/CD | Jenkins | Shell Scripting | Linux
 
 I’m a **DevSecOps Engineer** focused on building secure, scalable, and automated cloud infrastructure.  
-My work centers around **Infrastructure as Code (IaC)**, **cloud security**, **configuration management with Ansible**, and **end‑to‑end CI/CD automation**.
+My work centers around **Infrastructure as Code (IaC) with Terraform**, **cloud security**, **configuration management with Ansible**, and **end‑to‑end CI/CD automation**.
 
 
 🌍 Based in **Frisco, Texas, USA**
