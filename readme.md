@@ -4,8 +4,6 @@
 # 👋 Hi, I'm Mohan Krishna Geddada  
 **DevSecOps Engineer | Cloud & Infrastructure Automation**
 
-![Banner](banner.png)
-
 🔐 DevSecOps | Terraform | AWS | CI/CD | Jenkins | Shell Scripting | Linux
 
 I’m a **DevSecOps Engineer** focused on building secure, scalable, and automated cloud infrastructure.  
