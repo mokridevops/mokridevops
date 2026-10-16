@@ -28,8 +28,6 @@ My work centers around **Infrastructure as Code (IaC) with Terraform**, **config
 - 📋 Tracking and documenting work across Jira, Confluence, GitHub, and Bitbucket
 
 ---
-
-## ⚙️ Tech Stack
 ## ⚙️ Tech Stack
 
 **☁️ Cloud & Infrastructure**  
