@@ -17,8 +17,6 @@ My work centers around **Infrastructure as Code (IaC) with Terraform**, **config
 
 ## 🧠 What I Do
 
-## 🧠 What I Do
-
 - 🐧 Automating Linux server operations with shell scripting, cron, and systemd
 - 📜 Managing multi-environment configurations with modular Ansible roles and playbooks
 - 🏗️ Provisioning three-tier AWS infrastructure with reusable Terraform modules and workspaces
