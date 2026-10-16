@@ -21,6 +21,7 @@ My work centers around **Infrastructure as Code (IaC) with Terraform**, **config
 - 📜 Managing multi-environment configurations with modular Ansible roles and playbooks
 - 🏗️ Provisioning three-tier AWS infrastructure with reusable Terraform modules and workspaces
 - 🔄 Building Jenkins pipelines that chain Terraform and Ansible from commit to production
+- 🔐 Secure cloud environments using IAM, RBAC, and AWS Secrets Manager, ensuring compliance and access control
 - 🌿 Maintaining clean, collaborative workflows with Git Flow, rebasing, and code reviews
 
 ---
