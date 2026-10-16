@@ -15,13 +15,7 @@ My work centers around **Infrastructure as Code (IaC) with Terraform**, **config
 
 ---
 
-## 🧠 About Me
-- 🔐 Implementing DevSecOps practices across CI/CD pipelines  
-- ☁️ Designing secure AWS cloud architectures using Terraform  
-- 🛡️ Enforcing IAM least‑privilege, secrets management, and container security  
-- 🧩 Deploying microservices on Kubernetes (EKS) with Helm  
-- 🐳 Building optimized Docker images and automated pipelines  
-- 📦 Creating modular Terraform architectures for multi‑tier applications
+## 🧠 What I Do
 
 - 🐧 Automating Linux server operations with shell scripting, cron, and systemd
 - 📜 Managing multi-environment configurations with modular Ansible roles and playbooks
