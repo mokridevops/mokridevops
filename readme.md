@@ -22,7 +22,7 @@ My work centers around **Infrastructure as Code (IaC) with Terraform**, **config
 - 🏗️ Provisioning three-tier AWS infrastructure with reusable Terraform modules and workspaces
 - 🔄 Building Jenkins pipelines that chain Terraform and Ansible from commit to production
 - 🔎 Enforcing code quality gates with SonarQube and validating IaC before every release
-- 🔐 Secure cloud environments using IAM, RBAC, and AWS Secrets Manager, ensuring compliance and access control
+- 🔐 Secure cloud environments using IAM, RBAC, SSM Parameters and AWS Secrets Manager, ensuring compliance and access control
 - 🌐 Deploying NGINX as a reverse proxy and load balancer, backed by Redis, RabbitMQ, MySQL, and MongoDB
 - 🌿 Maintaining clean, collaborative workflows with Git Flow, rebasing, and code reviews
 - 📋 Tracking and documenting work across Jira, Confluence, GitHub, and Bitbucket
